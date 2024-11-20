@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m charaf",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I lov",
+        second: "Im charaf",
+        third: "I develop",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
